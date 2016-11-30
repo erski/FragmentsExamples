@@ -8,7 +8,7 @@ import retrofit2.http.GET;
 import retrofit2.http.Path;
 
 /**
- * Created by milanerski on 28.11.16..
+ * Created by milanerski on 289898.11.16..
  */
 
 public interface RemoteService {        //U ovoj kalsi ce biti svi nasi n-pointi, sa modelom kako izgleda zahtev!!!
