@@ -17,8 +17,7 @@ public class FragmentsExample extends Application{
     RemoteService remoteService;
 
 
-
-    @Override
+//tis is ne    @Override
     public void onCreate() {
         super.onCreate();
 //Retrofit
