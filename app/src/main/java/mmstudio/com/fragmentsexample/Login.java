@@ -18,7 +18,7 @@ import mmstudio.com.fragmentsexample.register.RegisterFragment;
 public class Login extends AppCompatActivity {
 
     ViewPager mViewPager;
-    TabLayout mTabLayout;
+    TabLayout mTabLayout;//a
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
